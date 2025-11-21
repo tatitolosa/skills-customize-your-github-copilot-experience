@@ -1,10 +1,10 @@
 # 📘 Assignment: Construindo APIs REST com FastAPI
 
-## 🎯 Objetivo
+## 🎯 Objective
 
 Aprender a criar uma API REST simples utilizando o framework FastAPI em Python. O estudante irá construir endpoints para manipular dados de uma lista de tarefas (to-do list).
 
-## 📝 Tarefas
+## 📝 Tasks
 
 ### 🛠️ Criar Estrutura Básica do Projeto
 
